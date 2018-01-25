@@ -1,5 +1,11 @@
 package com.jjwtan.pattern.decorator;
 
+import com.jjwtan.pattern.decorator.component.Beverage;
+import com.jjwtan.pattern.decorator.component.concrete.Espresso;
+import com.jjwtan.pattern.decorator.component.concrete.Latte;
+import com.jjwtan.pattern.decorator.decorators.concrete.Caramel;
+import com.jjwtan.pattern.decorator.decorators.concrete.Cream;
+
 /**
  * Created by jjwtan on 25/1/2018.
  */
