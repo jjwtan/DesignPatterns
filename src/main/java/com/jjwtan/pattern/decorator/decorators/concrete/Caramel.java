@@ -1,4 +1,7 @@
-package com.jjwtan.pattern.decorator;
+package com.jjwtan.pattern.decorator.decorators.concrete;
+
+import com.jjwtan.pattern.decorator.component.Beverage;
+import com.jjwtan.pattern.decorator.decorators.AddOnDecorator;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package com.jjwtan.pattern.decorator;
+package com.jjwtan.pattern.decorator.component;
 
 import java.math.BigDecimal;
 
