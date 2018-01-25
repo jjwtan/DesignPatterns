@@ -1,6 +1,6 @@
-package com.jjwtan.visitor.visitable;
+package com.jjwtan.pattern.visitor.visitable;
 
-import com.jjwtan.visitor.visitor.Visitor;
+import com.jjwtan.pattern.visitor.visitor.Visitor;
 
 import java.math.BigDecimal;
 

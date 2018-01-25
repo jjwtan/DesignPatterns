@@ -1,10 +1,10 @@
-package com.jjwtan.visitor;
+package com.jjwtan.pattern.visitor;
 
-import com.jjwtan.visitor.visitable.Liquor;
-import com.jjwtan.visitor.visitable.Necessity;
-import com.jjwtan.visitor.visitable.Tobacco;
-import com.jjwtan.visitor.visitor.TaxHolidayVisitor;
-import com.jjwtan.visitor.visitor.TaxVisitor;
+import com.jjwtan.pattern.visitor.visitable.Liquor;
+import com.jjwtan.pattern.visitor.visitable.Necessity;
+import com.jjwtan.pattern.visitor.visitable.Tobacco;
+import com.jjwtan.pattern.visitor.visitor.TaxHolidayVisitor;
+import com.jjwtan.pattern.visitor.visitor.TaxVisitor;
 
 import java.math.BigDecimal;
 
